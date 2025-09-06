@@ -1,3 +1,5 @@
+
+
 namespace FirstMauiApp.Views;
 
 public partial class ContactsPage : ContentPage
@@ -5,17 +7,24 @@ public partial class ContactsPage : ContentPage
 	public ContactsPage()
 	{
 		InitializeComponent();
+
+		//List<string> contacts = new List<string>() { "John Doe", "Jason Momohe", "Johny Deapth", "Jerry Jopa" };
+		
+		List<Contact> contacts = new List<Contact>()
+		{
+		new Contact { Name="John Doe", Email="ababahalamaha@gmail.com"},
+		new Contact { Name="Jason Momohe", Email="fuckthepolice@gmail.com"},
+		new Contact { Name="Johny Depth", Email="fuckamberheart@gmail.com"},
+		new Contact { Name="Jerry Jopa", Email="justjopa@gmail.com"},
+		};
+
+		listContacts.ItemsSource = contacts;
 	}
-
-    private void btnEditContact_Clicked(object sender, EventArgs e)
-    {
-        Shell.Current.GoToAsync(nameof(EditContactsPage));
-    }
-
-    private void btnAddContact_Clicked(object sender, EventArgs e)
-    {
-        Shell.Current.GoToAsync(nameof(AddContactsPage));
-    }
+	public class Contact
+	{
+		public string Name { get; set; }
+		public string Email { get; set; }
+	}
 
 
 }
