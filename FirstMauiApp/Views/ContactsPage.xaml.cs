@@ -21,7 +21,7 @@ public partial class ContactsPage : ContentPage
     {
 		if (listContacts.SelectedItem != null) 
 		{
-			await Shell.Current.GoToAsync(nameof(EditContactsPage));
+			await Shell.Current.GoToAsync($"{nameof(EditContactsPage)}?Id={((Contact)listContacts.SelectedItem).ContactId}");
 		}
     }
 

@@ -11,10 +11,10 @@ namespace FirstMauiApp.Models
     {
         public static List<Contact> _contacts = new List<Contact>()
 		{
-		new Contact { Name="John Doe", Email="ababahalamaha@gmail.com"},
-		new Contact { Name="Jason Momohe", Email="fuckthepolice@gmail.com"},
-		new Contact { Name = "Johny Depth", Email = "fuckamberheart@gmail.com" },
-		new Contact { Name = "Jerry Jopa", Email = "justjopa@gmail.com" },
+		new Contact { ContactId = 1, Name="John Doe", Email="ababahalamaha@gmail.com"},
+		new Contact { ContactId = 2, Name="Jason Momohe", Email="fuckthepolice@gmail.com"},
+		new Contact { ContactId = 3, Name = "Johny Depth", Email = "fuckamberheart@gmail.com" },
+		new Contact { ContactId = 4, Name = "Jerry Jopa", Email = "justjopa@gmail.com" },
 		};
 
 		public static List <Contact> GetContacts() => _contacts;
