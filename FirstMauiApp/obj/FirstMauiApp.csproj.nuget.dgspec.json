@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hlib\\source\\repos\\maui-contacts-app\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj": {}
+    "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hlib\\source\\repos\\maui-contacts-app\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj": {
+    "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hlib\\source\\repos\\maui-contacts-app\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
+        "projectUniqueName": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
         "projectName": "FirstMauiApp",
-        "projectPath": "C:\\Users\\Hlib\\source\\repos\\maui-contacts-app\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
+        "projectPath": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
         "packagesPath": "C:\\Users\\Hlib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hlib\\source\\repos\\maui-contacts-app\\FirstMauiApp\\FirstMauiApp\\obj\\",
+        "outputPath": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

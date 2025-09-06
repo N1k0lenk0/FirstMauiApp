@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "izrHhhLIaTE=",
+  "dgSpecHash": "sT6aTUgQbDA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hlib\\source\\repos\\maui-contacts-app\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
+  "projectFilePath": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\FirstMauiApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hlib\\.nuget\\packages\\googlegson\\2.13.0.1\\googlegson.2.13.0.1.nupkg.sha512",
     "C:\\Users\\Hlib\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.5\\microsoft.extensions.configuration.9.0.5.nupkg.sha512",

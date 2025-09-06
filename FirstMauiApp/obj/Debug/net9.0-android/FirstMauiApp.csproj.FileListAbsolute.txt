@@ -948,3 +948,4 @@ C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\obj\Debug\net9.0-android\st
 C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\obj\Debug\net9.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\obj\Debug\net9.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\obj\Debug\net9.0-android\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\obj\Debug\net9.0-android\FirstMauiApp.sourcelink.json
