@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\models\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\models\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\views\\editcontactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\views\\editcontactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,32 +11,28 @@
       "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\views\\editcontactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\views\\addcontactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\views\\addcontactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\models\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\models\\contactrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\views\\addcontactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\views\\addcontactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|solutionrelative:firstmauiapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{007FCF4A-4058-4ECE-AFDE-A9C1B940A140}|FirstMauiApp\\FirstMauiApp.csproj|c:\\users\\hlib\\source\\repos\\firstmauiapp\\firstmauiapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -58,37 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContactsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\ContactsPage.xaml.cs",
-              "RelativeDocumentMoniker": "FirstMauiApp\\Views\\ContactsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\ContactsPage.xaml.cs",
-              "RelativeToolTip": "FirstMauiApp\\Views\\ContactsPage.xaml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T07:29:26.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddContactsPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\AddContactsPage.xaml.cs",
-              "RelativeDocumentMoniker": "FirstMauiApp\\Views\\AddContactsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\AddContactsPage.xaml.cs",
-              "RelativeToolTip": "FirstMauiApp\\Views\\AddContactsPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T07:40:40.368Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "FirstMauiApp\\AppShell.xaml.cs",
@@ -101,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ContactsPage.xaml",
               "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\ContactsPage.xaml",
               "RelativeDocumentMoniker": "FirstMauiApp\\Views\\ContactsPage.xaml",
@@ -114,13 +80,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "EditContactsPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\EditContactsPage.xaml.cs",
               "RelativeDocumentMoniker": "FirstMauiApp\\Views\\EditContactsPage.xaml.cs",
-              "ToolTip": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\EditContactsPage.xaml.cs",
-              "RelativeToolTip": "FirstMauiApp\\Views\\EditContactsPage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\EditContactsPage.xaml.cs*",
+              "RelativeToolTip": "FirstMauiApp\\Views\\EditContactsPage.xaml.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T18:53:28.725Z",
               "EditorCaption": ""
@@ -128,19 +94,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "AddContactsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\AddContactsPage.xaml",
-              "RelativeDocumentMoniker": "FirstMauiApp\\Views\\AddContactsPage.xaml",
-              "ToolTip": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\AddContactsPage.xaml",
-              "RelativeToolTip": "FirstMauiApp\\Views\\AddContactsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-05T18:53:12.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\AppShell.xaml",
               "RelativeDocumentMoniker": "FirstMauiApp\\AppShell.xaml",
@@ -153,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\App.xaml",
               "RelativeDocumentMoniker": "FirstMauiApp\\App.xaml",
@@ -166,28 +119,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditContactsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\EditContactsPage.xaml",
-              "RelativeDocumentMoniker": "FirstMauiApp\\Views\\EditContactsPage.xaml",
-              "ToolTip": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\EditContactsPage.xaml",
-              "RelativeToolTip": "FirstMauiApp\\Views\\EditContactsPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-05T18:52:12.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "ContactRepository.cs",
               "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Models\\ContactRepository.cs",
               "RelativeDocumentMoniker": "FirstMauiApp\\Models\\ContactRepository.cs",
               "ToolTip": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Models\\ContactRepository.cs",
               "RelativeToolTip": "FirstMauiApp\\Models\\ContactRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T16:56:52.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\ContactsPage.xaml.cs",
+              "RelativeDocumentMoniker": "FirstMauiApp\\Views\\ContactsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\ContactsPage.xaml.cs",
+              "RelativeToolTip": "FirstMauiApp\\Views\\ContactsPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T07:29:26.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EditContactsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\EditContactsPage.xaml",
+              "RelativeDocumentMoniker": "FirstMauiApp\\Views\\EditContactsPage.xaml",
+              "ToolTip": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\Views\\EditContactsPage.xaml",
+              "RelativeToolTip": "FirstMauiApp\\Views\\EditContactsPage.xaml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-05T18:52:12.087Z",
               "EditorCaption": ""
             },
             {
@@ -205,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Hlib\\source\\repos\\FirstMauiApp\\FirstMauiApp\\MainPage.xaml",
               "RelativeDocumentMoniker": "FirstMauiApp\\MainPage.xaml",

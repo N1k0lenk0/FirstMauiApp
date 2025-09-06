@@ -24,7 +24,7 @@ public partial class EditContactsPage : ContentPage
 		set
 		{
 			contact = ContactRepository.GetContactById(int.Parse(value));	
-			lblName.Text = contact.Name;
+			//lblName.Text = contact.Name;
 		}
 	}
 }
