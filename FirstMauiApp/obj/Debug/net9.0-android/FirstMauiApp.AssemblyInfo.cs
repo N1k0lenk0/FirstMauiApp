@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstMauiApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+847c2e3fe8304a40c5ecaf1fcb0242dba39f40e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dc223eb9192bd8588c0ab225b054162a3936423d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstMauiApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstMauiApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
