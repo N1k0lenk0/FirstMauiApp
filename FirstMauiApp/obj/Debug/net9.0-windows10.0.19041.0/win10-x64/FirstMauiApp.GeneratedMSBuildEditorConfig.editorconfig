@@ -64,6 +64,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Views.Contact
 build_metadata.AdditionalFiles.TargetPath = Views\ContactsPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\ContactsPage.xaml
 
+[C:/Users/Hlib/source/repos/FirstMauiApp/FirstMauiApp/Views/Controls/ContactControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Views.Controls.ContactControl.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Controls\ContactControl.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Controls\ContactControl.xaml
+
 [C:/Users/Hlib/source/repos/FirstMauiApp/FirstMauiApp/Views/EditContactsPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FirstMauiApp.Views.EditContactsPage.xaml

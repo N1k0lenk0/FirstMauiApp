@@ -513,3 +513,7 @@ C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\obj\Debug\net9.0-windows10.
 C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.dll
+C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\CommunityToolkit.Maui.Core.dll
+C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\bin\Debug\net9.0-windows10.0.19041.0\win10-x64\System.Speech.dll
+C:\Users\Hlib\source\repos\FirstMauiApp\FirstMauiApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\FirstMauiApp.sourcelink.json
