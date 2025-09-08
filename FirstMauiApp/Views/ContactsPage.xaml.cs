@@ -1,3 +1,4 @@
+using System.Collections.ObjectModel;
 using FirstMauiApp.Models;
 using Contact = FirstMauiApp.Models.Contact;
 
@@ -9,12 +10,15 @@ public partial class ContactsPage : ContentPage
 	{
 		InitializeComponent();
 
-		//List<string> contacts = new List<string>() { "John Doe", "Jason Momohe", "Johny Deapth", "Jerry Jopa" };
-
-		List<Contact> contacts = ContactRepository.GetContacts();
-
-		listContacts.ItemsSource = contacts;
 	}
+
+    protected override void OnAppearing()
+    {
+        base.OnAppearing();
+
+		var contacts = new ObservableCollection<Contact>(ContactRepository.GetContacts());
+
+		listContacts.ItemsSource = contacts;    }
 	
 
     private async void listContacts_ItemSelected(object sender, SelectedItemChangedEventArgs e)
