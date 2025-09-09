@@ -3,26 +3,32 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="FirstMauiApp.Views.ContactsPage"
              Title="Contacts">
-    <Grid Padding="5"
+    <Grid 
+        Padding="5"
         RowDefinitions="*,50"
-          ColumnDefinitions="*">
+        ColumnDefinitions="*">
         <ListView Grid.Row="0"
                   Grid.Column="0"
-    x:Name="listContacts" 
-    BackgroundColor="Transparent"
-    SeparatorColor="Silver"
-    RowHeight="65"
-    ItemSelected="listContacts_ItemSelected"
-    ItemTapped="listContacts_ItemTapped">
+                x:Name="listContacts" 
+                BackgroundColor="Transparent"
+                SeparatorColor="Silver"
+                RowHeight="65"
+                ItemSelected="listContacts_ItemSelected"
+                ItemTapped="listContacts_ItemTapped">
 
             <ListView.ItemTemplate>
                 <DataTemplate>
                     <TextCell 
-                Text="{Binding Name}"
-                Detail="{Binding Email}"></TextCell>
+                        Text="{Binding Name}"
+                        Detail="{Binding Email}">
+                    <TextCell.ContextActions>
+                            <MenuItem Text="Delete"
+                                      Clicked="Delete_Clicked"
+                                      CommandParameter="{Binding .}"></MenuItem>
+                    </TextCell.ContextActions>
 
+                    </TextCell>
                 </DataTemplate>
-
             </ListView.ItemTemplate>
 
         </ListView>
@@ -33,6 +39,6 @@
         </Button>
 
     </Grid>
-    
-   
+
+
 </ContentPage>
